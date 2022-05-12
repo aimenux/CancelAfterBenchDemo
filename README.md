@@ -1,4 +1,6 @@
-﻿# CancelAfterBenchDemo
+﻿[![.NET](https://github.com/aimenux/CancelAfterBenchDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/CancelAfterBenchDemo/actions/workflows/ci.yml)
+
+# CancelAfterBenchDemo
 ```
 Benchmarking various ways to cancel tasks after some execution period
 ```
