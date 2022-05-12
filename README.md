@@ -14,7 +14,7 @@ In this demo, i m using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDot
 >
 > :three: `UsingTaskCompletionSourceAsync` : a bench based on [TaskCompletionSource](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.taskcompletionsource)
 >
-> :four: `UsingPollyAsync` : a bench based on [polly timeout policy](https://github.com/App-vNext/Polly#timeout)
+> :four: `UsingPollyAsync` : a bench based on [PollyPolicy](https://github.com/App-vNext/Polly#timeout)
 >
 
 In order to run benchmarks, type this command in your favorite terminal : `.\App.exe`
